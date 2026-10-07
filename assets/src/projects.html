@@ -1,0 +1,45 @@
+<!doctype html><html><head><meta charset="utf-8"><script src="theme.js"></script><link rel="stylesheet" href="art.css"><style>
+.frame{--h:1680px;--gx:85%;--gy:-10%}
+.sec{position:absolute;left:72px;right:72px}
+.sec .lab{display:flex;align-items:center;gap:14px;color:var(--dim)}
+.sec .lab:after{content:"";flex:1;height:1px;background:var(--line2)}
+.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin-top:18px}
+.grid.c4{grid-template-columns:repeat(4,1fr)}
+.pc{border-radius:20px;overflow:hidden;background:var(--p1);box-shadow:inset 0 0 0 1px var(--line);display:flex;flex-direction:column}
+.pc .im{aspect-ratio:16/10;overflow:hidden;background:var(--p2);border-bottom:1px solid var(--line)}
+.pc .im img{width:100%;height:100%;object-fit:cover;object-position:top}
+.pc .tx{padding:14px 16px 16px;display:flex;flex-direction:column;gap:7px;flex:1}
+.pc .mono{font-size:10px;color:var(--coral)}
+.pc h3{font-size:17px;letter-spacing:-.02em;font-weight:720;line-height:1.15}
+.pc p{font-size:12.5px;line-height:1.5;color:var(--muted)}
+.pc .links{margin-top:auto;padding-top:8px;display:flex;gap:6px;flex-wrap:wrap}
+.pc .links span{font-family:Mono;font-size:10px;letter-spacing:.08em;text-transform:uppercase;padding:5px 8px;border-radius:7px;background:var(--p2);box-shadow:inset 0 0 0 1px var(--line2);color:var(--muted)}
+.pc .links span.hot{background:var(--coralsoft);color:var(--coral);box-shadow:inset 0 0 0 1px rgba(255,77,46,.35)}
+.feat .pc{box-shadow:inset 0 0 0 1px rgba(255,77,46,.35)}
+.feat .pc .im{aspect-ratio:16/9}
+</style></head><body><div class="frame">
+<span class="reg tl"></span><span class="reg tr"></span><span class="reg bl"></span><span class="reg br"></span>
+<div class="rail mono"><span><b>01</b> &nbsp;projects</span><span>14 shipped · 5 production ai apps · 9 client &amp; independent</span><span>fig. 1</span></div>
+<div class="hd"><div class="mono k">What I've shipped</div><h2>Fourteen products shipped. <span class="serif">Five of them are AI, end to end.</span></h2>
+<p>Each card below is a real deployment: Docker, CI/CD, logging and metrics on the AI apps; live client sites for the rest. Names, links and descriptions match my resume.</p></div>
+<div class="sec feat" style="top:330px"><div class="lab mono"><span>NextUpgrad Web Solutions · GenAI engineer · Feb–Jul 2026</span></div>
+<div class="grid">
+  <div class="pc"><div class="im"><img src="../projects/project-rag-nextupgrad.webp"></div><div class="tx"><span class="mono">RAG · Python</span><h3>RAG.NextUpgrad</h3><p>Production RAG with hybrid dense + BM25 retrieval, a hallucination-blocking confidence gate and automatic multi-provider fallback.</p><div class="links"><span class="hot">demo</span><span>github</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-finetune-studio.webp"></div><div class="tx"><span class="mono">Fine-tuning · Python</span><h3>FineTune Studio</h3><p>End-to-end QLoRA fine-tuning (HF Transformers / PEFT / TRL) with live loss streaming and base-vs-fine-tuned evaluation.</p><div class="links"><span class="hot">demo</span><span>github</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-facevision.webp"></div><div class="tx"><span class="mono">Vision · TypeScript</span><h3>FaceVision</h3><p>Browser-only face detection, recognition and liveness (ONNX Runtime Web). The FastAPI/PostgreSQL backend stores only embeddings, never images.</p><div class="links"><span class="hot">demo</span><span>github</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-doculens-ai.webp"></div><div class="tx"><span class="mono">Document AI · TypeScript</span><h3>DocuLens AI</h3><p>Groq-LLM document intelligence: extracts, compares and compliance-checks invoices and contracts with schema-validated, deterministic scoring.</p><div class="links"><span class="hot">demo</span><span>github</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-ocr-speech-workspace.webp"></div><div class="tx"><span class="mono">OCR · Speech · Python</span><h3>OCR &amp; Speech Workspace</h3><p>Mistral AI workspace for concurrent page-batched PDF OCR, live speech-to-text and document-scoped RAG chat with citations.</p><div class="links"><span class="hot">demo</span><span>github</span></div></div></div>
+</div></div>
+<div class="sec" style="top:790px"><div class="lab mono"><span>Independent &amp; client projects · SCULT INDIA, 2024 →</span></div>
+<div class="grid c4">
+  <div class="pc"><div class="im"><img src="../projects/project-scult-studio-crm.webp"></div><div class="tx"><span class="mono">Agency platform</span><h3>SCULT INDIA · Studio CRM</h3><p>AI-first software agency platform with an internal CRM and workflow management system; the one the 14-member team runs on.</p><div class="links"><span class="hot">website</span><span>studio</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-super-digital-library.webp"></div><div class="tx"><span class="mono">Platform</span><h3>Super Digital Library</h3><p>Digital library built on a scalable architecture for organising and accessing large content collections.</p><div class="links"><span class="hot">live</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-vaidya-ai.webp"></div><div class="tx"><span class="mono">Healthcare · LLM</span><h3>Vaidya AI</h3><p>LLM-powered healthcare chatbot delivering conversational patient assistance.</p><div class="links"><span class="hot">demo</span><span>github</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-annapurna.webp"></div><div class="tx"><span class="mono">Hackathon winner · NGO</span><h3>Annapurna</h3><p>NGO donation platform with a streamlined giving and outreach flow. 1st prize, BYTEBATTLE.</p><div class="links"><span class="hot">demo</span><span>github</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-nuclear-pest-goa.webp"></div><div class="tx"><span class="mono">Client · enterprise</span><h3>Nuclear Pest Goa</h3><p>Enterprise business website with SEO optimisation and a fully responsive UI.</p><div class="links"><span class="hot">live</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-scult-marketing.webp"></div><div class="tx"><span class="mono">Agency · marketing</span><h3>SCULT Marketing</h3><p>Marketing landing platform for agency service offerings and lead generation.</p><div class="links"><span class="hot">live</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-gloss-digital-entertainment.webp"></div><div class="tx"><span class="mono">Client · media</span><h3>Gloss Digital Entertainment</h3><p>Media platform frontend built with a scalable component architecture.</p><div class="links"><span class="hot">live</span></div></div></div>
+  <div class="pc"><div class="im"><img src="../projects/project-passionate-records.webp"></div><div class="tx"><span class="mono">Client · music</span><h3>Passionate Records</h3><p>Music label website with a modern, responsive design.</p><div class="links"><span>github</span></div></div></div>
+</div></div>
+<div class="foot mono"><span>every link is clickable in the table below the figure</span><span>pranjul rathour · 2026</span></div>
+</div></body></html>

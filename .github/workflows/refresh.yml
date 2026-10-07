@@ -1,0 +1,25 @@
+# Redraws the GitHub-stats figure (assets/stats-*.svg) and the live numbers in README.md once a day.
+# Public repository: Actions minutes are free. Only public data is read, with the default GITHUB_TOKEN.
+name: refresh stats
+on:
+  schedule:
+    - cron: "17 1 * * *"   # 06:47 IST
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python scripts/stats.py
+        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
+      - run: |
+          git config user.name "Pranjul Rathour"
+          git config user.email "pranjulrathour41@gmail.com"
+          git add assets/stats-dark.svg assets/stats-light.svg README.md
+          git diff --cached --quiet || git commit -m "stats: refresh GitHub figures"
+          git push

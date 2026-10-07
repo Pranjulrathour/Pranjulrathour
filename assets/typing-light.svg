@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<title>Pranjul Rathour</title>
+<style>rect.blink{animation:b 1s steps(2,start) infinite}@keyframes b{to{visibility:hidden}}</style>
+<text x="0" y="40" font-size="26" fill="#ff4d2e" font-weight="600">&#8250;</text>
+<g transform="translate(26 0)">
+<clipPath id="c0"><rect x="0" y="0" width="0" height="60">
+  <animate attributeName="width" values="0;0;490;490;0;0" keyTimes="0;0.0000;0.0411;0.1059;0.1059;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+</rect></clipPath>
+<text x="0" y="40" clip-path="url(#c0)" font-size="26" font-weight="600" fill="#1c1b22" xml:space="preserve">GenAI engineer in Kanpur, India</text>
+<rect y="19" width="3" height="25" rx="1" fill="#ff4d2e" opacity="0">
+  <animate attributeName="x" values="0;0;490;490;0;0" keyTimes="0;0.0000;0.0411;0.1059;0.1059;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0000;0.0000;0.1059;0.1059;1" dur="33.95s" repeatCount="indefinite"/>
+</rect>
+<clipPath id="c1"><rect x="0" y="0" width="0" height="60">
+  <animate attributeName="width" values="0;0;661;661;0;0" keyTimes="0;0.1162;0.1719;0.2367;0.2367;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+</rect></clipPath>
+<text x="0" y="40" clip-path="url(#c1)" font-size="26" font-weight="600" fill="#1c1b22" xml:space="preserve">Production RAG that refuses to hallucinate</text>
+<rect y="19" width="3" height="25" rx="1" fill="#ff4d2e" opacity="0">
+  <animate attributeName="x" values="0;0;661;661;0;0" keyTimes="0;0.1162;0.1719;0.2367;0.2367;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1162;0.1162;0.2367;0.2367;1" dur="33.95s" repeatCount="indefinite"/>
+</rect>
+<clipPath id="c2"><rect x="0" y="0" width="0" height="60">
+  <animate attributeName="width" values="0;0;552;552;0;0" keyTimes="0;0.2470;0.2934;0.3582;0.3583;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+</rect></clipPath>
+<text x="0" y="40" clip-path="url(#c2)" font-size="26" font-weight="600" fill="#1c1b22" xml:space="preserve">Fine-tuning open models on a budget</text>
+<rect y="19" width="3" height="25" rx="1" fill="#ff4d2e" opacity="0">
+  <animate attributeName="x" values="0;0;552;552;0;0" keyTimes="0;0.2470;0.2934;0.3582;0.3583;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2470;0.2470;0.3582;0.3583;1" dur="33.95s" repeatCount="indefinite"/>
+</rect>
+<clipPath id="c3"><rect x="0" y="0" width="0" height="60">
+  <animate attributeName="width" values="0;0;614;614;0;0" keyTimes="0;0.3685;0.4202;0.4850;0.4851;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+</rect></clipPath>
+<text x="0" y="40" clip-path="url(#c3)" font-size="26" font-weight="600" fill="#1c1b22" xml:space="preserve">Vision, OCR and speech in real products</text>
+<rect y="19" width="3" height="25" rx="1" fill="#ff4d2e" opacity="0">
+  <animate attributeName="x" values="0;0;614;614;0;0" keyTimes="0;0.3685;0.4202;0.4850;0.4851;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3685;0.3686;0.4850;0.4851;1" dur="33.95s" repeatCount="indefinite"/>
+</rect>
+<clipPath id="c4"><rect x="0" y="0" width="0" height="60">
+  <animate attributeName="width" values="0;0;458;458;0;0" keyTimes="0;0.4954;0.5338;0.5986;0.5986;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+</rect></clipPath>
+<text x="0" y="40" clip-path="url(#c4)" font-size="26" font-weight="600" fill="#1c1b22" xml:space="preserve">CTO &amp; co-founder, SCULT INDIA</text>
+<rect y="19" width="3" height="25" rx="1" fill="#ff4d2e" opacity="0">
+  <animate attributeName="x" values="0;0;458;458;0;0" keyTimes="0;0.4954;0.5338;0.5986;0.5986;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4954;0.4954;0.5986;0.5986;1" dur="33.95s" repeatCount="indefinite"/>
+</rect>
+<clipPath id="c5"><rect x="0" y="0" width="0" height="60">
+  <animate attributeName="width" values="0;0;521;521;0;0" keyTimes="0;0.6089;0.6527;0.7175;0.7175;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+</rect></clipPath>
+<text x="0" y="40" clip-path="url(#c5)" font-size="26" font-weight="600" fill="#1c1b22" xml:space="preserve">3x hackathon first prizes in 2025</text>
+<rect y="19" width="3" height="25" rx="1" fill="#ff4d2e" opacity="0">
+  <animate attributeName="x" values="0;0;521;521;0;0" keyTimes="0;0.6089;0.6527;0.7175;0.7175;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6089;0.6090;0.7175;0.7175;1" dur="33.95s" repeatCount="indefinite"/>
+</rect>
+<clipPath id="c6"><rect x="0" y="0" width="0" height="60">
+  <animate attributeName="width" values="0;0;692;692;0;0" keyTimes="0;0.7278;0.7861;0.8509;0.8510;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+</rect></clipPath>
+<text x="0" y="40" clip-path="url(#c6)" font-size="26" font-weight="600" fill="#1c1b22" xml:space="preserve">Mentor to 200+ students, speaker at colleges</text>
+<rect y="19" width="3" height="25" rx="1" fill="#ff4d2e" opacity="0">
+  <animate attributeName="x" values="0;0;692;692;0;0" keyTimes="0;0.7278;0.7861;0.8509;0.8510;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7278;0.7278;0.8509;0.8510;1" dur="33.95s" repeatCount="indefinite"/>
+</rect>
+<clipPath id="c7"><rect x="0" y="0" width="0" height="60">
+  <animate attributeName="width" values="0;0;755;755;0;0" keyTimes="0;0.8612;0.9249;0.9897;0.9897;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+</rect></clipPath>
+<text x="0" y="40" clip-path="url(#c7)" font-size="26" font-weight="600" fill="#1c1b22" xml:space="preserve">Open to GenAI roles, talks and hackathon judging</text>
+<rect y="19" width="3" height="25" rx="1" fill="#ff4d2e" opacity="0">
+  <animate attributeName="x" values="0;0;755;755;0;0" keyTimes="0;0.8612;0.9249;0.9897;0.9897;1" dur="33.95s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8612;0.8613;0.9897;0.9897;1" dur="33.95s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>

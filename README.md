@@ -1,93 +1,161 @@
+<!-- Designed in HTML, rendered to WebP by scripts/render.py. Light and dark variants swap with <picture>. Every number comes
+     from the resume and knowledge base in brand-engine; GitHub figures redraw daily via .github/workflows/refresh.yml. -->
+<a href="https://pranjulrathour.scult.in"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp">
+<img src="assets/hero-light.webp" alt="Pranjul Rathour, GenAI engineer and CTO & co-founder of SCULT INDIA, Kanpur. I build AI that ships, then I teach it. Three hackathon first prizes, five production AI apps, a 14-member team led, 200+ students mentored, 500+ TechVerse Enclave members." width="100%">
+</picture></a>
+
+<p align="center"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+<img src="assets/typing-light.svg" alt="GenAI engineer in Kanpur, India · Production RAG that refuses to hallucinate · Fine-tuning open models on a budget · CTO & co-founder, SCULT INDIA · 3x hackathon first prizes in 2025 · Mentor to 200+ students · Open to GenAI roles, talks and hackathon judging" width="900">
+</picture></p>
+
 <p align="center">
-  <a href="https://scult.in">
-    <img src="https://raw.githubusercontent.com/Pranjulrathour/Pranjulrathour/main/assets/hero.gif" width="90%" alt="arms open to the universe" />
-  </a>
+<a href="https://pranjulrathour.scult.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/globe.svg"><img src="assets/icons/light/globe.svg" width="26" alt="Portfolio" title="Portfolio"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pranjul-rathour/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/linkedin.svg"><img src="assets/icons/light/linkedin.svg" width="26" alt="LinkedIn" title="LinkedIn"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/PranjulRathourx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/x.svg"><img src="assets/icons/light/x.svg" width="26" alt="X" title="X"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/pranjulrathour.in/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/instagram.svg"><img src="assets/icons/light/instagram.svg" width="26" alt="Instagram" title="Instagram"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.threads.com/@pranjulrathour.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/threads.svg"><img src="assets/icons/light/threads.svg" width="26" alt="Threads" title="Threads"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=1377591238763842"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/facebook.svg"><img src="assets/icons/light/facebook.svg" width="26" alt="Facebook" title="Facebook"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://bsky.app/profile/pranjulrathour.bsky.social"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/bluesky.svg"><img src="assets/icons/light/bluesky.svg" width="26" alt="Bluesky" title="Bluesky"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/pranjulrathour"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/devdotto.svg"><img src="assets/icons/light/devdotto.svg" width="26" alt="Dev.to" title="Dev.to"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://pranjulrathourtechguru.blogspot.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/blogger.svg"><img src="assets/icons/light/blogger.svg" width="26" alt="Blogger" title="Blogger"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://pranjulrathour.hashnode.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/hashnode.svg"><img src="assets/icons/light/hashnode.svg" width="26" alt="Hashnode" title="Hashnode"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:pranjulrathour41@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/gmail.svg"><img src="assets/icons/light/gmail.svg" width="26" alt="Email" title="pranjulrathour41@gmail.com"></picture></a>
 </p>
 
 <p align="center">
-  <i>“Kisi cheez ko itni shiddat se chaho... ki puri kainaat use tumse milane ki koshish mein lag jaati hai.”</i>
-  <br/>
-  <sub><b>— Om Shanti Om (2007)</b></sub>
+<a href="#-projects"><b>Projects</b></a> &nbsp;·&nbsp; <a href="#-hackathons"><b>Hackathons</b></a> &nbsp;·&nbsp; <a href="#-speaking"><b>Speaking</b></a> &nbsp;·&nbsp; <a href="#-stack"><b>Stack</b></a> &nbsp;·&nbsp; <a href="#-writing"><b>Writing</b></a> &nbsp;·&nbsp; <a href="#-github"><b>GitHub</b></a> &nbsp;·&nbsp; <a href="#-find-me"><b>Find me</b></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&duration=4000&color=BC8CFF&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Pranjul+Rathour+%E2%80%94+Software+Engineer;CTO+%26+Co-Founder+%40+SCULT+INDIA;3x+Hackathon+Winner;Building+AI-first+products+that+ship" alt="Pranjul Rathour — Software Engineer · CTO & Co-Founder @ SCULT INDIA · 3x Hackathon Winner" />
-</p>
+<br>
 
-<p align="center">📍 <b>Kanpur, India</b> · 🤖 <b>AI-first builder</b> · 🏆 <b>3× hackathon winner</b> · 🌍 <b>Open to remote roles</b></p>
+**GenAI engineer and AI product builder, 2+ years shipping production-grade AI systems:** RAG pipelines, fine-tuned LLMs, hybrid retrieval and multimodal apps across vision, speech and OCR, architected end to end from ingestion to deployment. I lead engineering for the 14-member team at [SCULT INDIA](https://scult.in), where I'm CTO & co-founder, and I founded [TechVerse Enclave](https://www.linkedin.com/in/pranjul-rathour/), a 500+ member developer community. BCA at Dr. Virendra Swarup Institute of Computer Studies, Kanpur, 2023–2026.
 
-<p align="center">
-  <a href="https://scult.in"><b>scult.in</b></a> ·
-  <a href="https://www.linkedin.com/in/pranjul-rathour/"><b>LinkedIn</b></a> ·
-  <a href="https://x.com/PranjulRathourx"><b>X</b></a> ·
-  <a href="mailto:pranjulrathour41@gmail.com"><b>Email</b></a>
-</p>
+> [!TIP]
+> **Open to GenAI roles, hackathon judging, mentorship sessions and guest talks at colleges**, on-site across India or remote. The fastest route is email: **pranjulrathour41@gmail.com**, or [pranjulrathour.scult.in/invite](https://pranjulrathour.scult.in/invite).
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&color=0:0d1117,100:bc8cff" width="100%" alt="" />
+<br>
 
-### 🎬 The Plot So Far
+## ◆ Projects
 
-- 🛠 **CTO & Co-Founder of [SCULT INDIA](https://scult.in)**, the AI-first software studio — **5+ paid client products** shipped, **₹1L+ revenue** in the first six months, a **14-member** cross-functional team led
-- 🧩 Built **[SCULT Studio](https://studio.scult.in)**, the internal CRM & operations platform the whole agency runs on
-- 🧑‍🏫 Founder of **TechVerse Enclave** — a **500+ member** tech community, **200+ students** mentored
-- ⚙️ I ship **AI-powered SaaS, automation systems & production web apps** — React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, and modern LLM APIs
-- 🎓 BCA @ Dr. Virendra Swarup Institute of Computer Studies, Kanpur (2023–2026)
-- 🍿 Chai-fueled and cinema-obsessed — hence the line above. I build like the universe is conspiring to help.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.webp">
+<img src="assets/projects-light.webp" alt="Fourteen shipped products: five production AI apps built at NextUpgrad Web Solutions (RAG.NextUpgrad, FineTune Studio, FaceVision, DocuLens AI, OCR & Speech Workspace) and eight independent and client projects (SCULT INDIA Studio CRM, Super Digital Library, Vaidya AI, Annapurna, Nuclear Pest Goa, SCULT Marketing, Gloss Digital Entertainment, Passionate Records)." width="100%">
+</picture>
 
-### 🛠 The Arsenal
+**NextUpgrad Web Solutions, GenAI engineer, Feb–Jul 2026.** Five production AI applications designed, built and shipped end to end, each deployed with Docker, CI/CD and observability.
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,postgres,supabase,mongodb,firebase,redis,docker,aws,linux&theme=dark&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Redux, Node.js, Express, PostgreSQL, Supabase, MongoDB, Firebase, Redis, Docker, AWS, Linux" /></a>
-</p>
+| Project | What it does | Links |
+|---|---|---|
+| **RAG.NextUpgrad** | Production RAG with hybrid dense + BM25 retrieval, a hallucination-blocking confidence gate and automatic multi-provider fallback. Streams citation-grounded answers; runs in about 220 MB on a free tier. | [Demo](https://lnkd.in/p/gyQSx2Z2) · [GitHub](https://github.com/Pranjulrathour/RAG.NEXTUPGRAD) |
+| **FineTune Studio** | End-to-end QLoRA fine-tuning (Hugging Face Transformers / PEFT / TRL) with live loss streaming and side-by-side base-vs-fine-tuned evaluation. | [Demo](https://lnkd.in/p/ghD2xquX) · [GitHub](https://github.com/Pranjulrathour/FINETUNESTUDIO) |
+| **FaceVision** | Browser-only face detection, recognition and liveness check with ONNX Runtime Web. The FastAPI/PostgreSQL backend stores only vector embeddings, never images. | [Demo](https://lnkd.in/p/gJCZiZdt) · [GitHub](https://github.com/Pranjulrathour/FACEVISION-NEXTUPGRAD-) |
+| **DocuLens AI** | Groq-LLM document intelligence: extracts, compares and compliance-checks invoices and contracts with schema-validated, deterministic scoring. | [Demo](https://lnkd.in/p/gZQVYFqm) · [GitHub](https://github.com/Pranjulrathour/DOCULENS-AI-NEXTUPGRAD-) |
+| **OCR & Speech Workspace** | Mistral AI workspace for concurrent page-batched PDF OCR, live speech-to-text and document-scoped RAG chat with citations. | [Demo](https://lnkd.in/p/gXz4Smby) · [GitHub](https://github.com/Pranjulrathour/OCR-STT-NEXTUPGRAD-mistral.ai-) |
 
-<p align="center">
-  <b>AI</b> — OpenAI · Claude · Gemini · LangChain · CrewAI · MCP · OpenRouter · RAG
-  <br/>
-  <sub>also fluent in: Shadcn UI · GSAP · Framer Motion · Zustand · React Query · GitHub Actions · Vercel · Cloudflare</sub>
-</p>
+**Independent and client projects, SCULT INDIA, 2024 to present.** 5+ paid, production-grade products shipped for clients across industries; about ₹1,00,000 revenue in the first six months.
 
-### ⚡ Now Showing
+| Project | What it does | Links |
+|---|---|---|
+| **SCULT INDIA · Studio CRM** | AI-first software agency platform with an internal CRM and workflow management system; the one the whole team runs on. | [Website](https://scult.in/) · [Studio](https://studio.scult.in/) · [Demo](https://www.instagram.com/reel/DazuEzohKog/) |
+| **Super Digital Library** | Digital library built on a scalable architecture for organising and accessing large content collections. | [Live](https://superdigitallibrary.vercel.app/) · [Demo](https://www.instagram.com/reel/Da7RzLrxSK4/) |
+| **Vaidya AI** | LLM-powered healthcare chatbot delivering conversational patient assistance. | [GitHub](https://github.com/Pranjulrathour/VAIDYA.ai) · [Demo](https://www.instagram.com/reel/DK7o-MYNzBX/) |
+| **Annapurna** | NGO donation platform with a streamlined giving and outreach flow. 1st prize, BYTEBATTLE. | [GitHub](https://github.com/Pranjulrathour/annapurna.live) · [Demo](https://www.instagram.com/reel/DKRpJv_B4tu/) |
+| **Nuclear Pest Goa** | Enterprise business website with SEO optimisation and a fully responsive UI. | [Live](https://www.nuclearpestgoa.in/) · [Demo](https://lnkd.in/p/gr7JfnU8) |
+| **SCULT Marketing** | Marketing landing platform for agency service offerings and lead generation. | [Live](https://marketing.scult.in/) · [Demo](https://lnkd.in/p/gg3f3WWc) |
+| **Gloss Digital Entertainment** | Media platform frontend built with a scalable component architecture. | [Live](https://www.glossdigitalentertainment.in/) · [Demo](https://www.instagram.com/reel/DJSVmrMT5TI/) |
+| **Passionate Records** | Music label website with a modern, responsive design. | [GitHub](https://github.com/Pranjulrathour/passionate-records) |
+| **STROT** | Built in a 48-hour hackathon, Dec 2025: a system-driven platform against generational poverty. Didn't place; kept shipping it. | [GitHub](https://github.com/Pranjulrathour/strot.in) |
 
-- 🧠 **[SCULT Studio](https://studio.scult.in)** — the CRM & ops platform running an AI-first agency end to end
-- 🩺 **[Vaidya AI](https://vaidya-ai-one.vercel.app/)** — LLM-powered healthcare chatbot for conversational assistance · [code](https://github.com/Pranjulrathour/VAIDYA.ai)
-- 🍛 **[Annapurna](https://annapurna-live.vercel.app/)** — hackathon-winning NGO donation platform with role-based workflows · [code](https://github.com/Pranjulrathour/annapurna.live)
-- 🐜 **[Nuclear Pest Control Goa](https://www.nuclearpestgoa.in/)** — enterprise client site with modern UI & performance tuning
+<br>
 
-<details>
-<summary><b>🎞️ Full filmography — more shipped client work</b></summary>
-<br/>
+## ◆ Hackathons
 
-- 📣 **[SCULT Marketing](https://marketing.scult.in/)** — landing page for the studio's branding, software & AI services
-- 🎬 **[Gloss Digital Entertainment](https://www.glossdigitalentertainment.in/)** — production-ready entertainment platform, responsive & scalable
-- 🎵 **[Passionate Records](https://precords.vercel.app/)** — music label site built around artist discovery & brand identity
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/wins-dark.webp">
+<img src="assets/wins-light.webp" alt="Three first prizes in 2025 with Team TechVerse: KrishGyan at Changethon 2025, IIT Roorkee; BrandHive at Product Genesis, Vividhotsava 2025, CSJMU Kanpur; Annapurna at BYTEBATTLE by MeetKats. Plus STROT, a 48-hour build that did not place." width="100%">
+</picture>
 
-</details>
+| | Event | Built | With |
+|:-:|---|---|---|
+| 🥇 | **Changethon 2025**, National Social Summit, IIT Roorkee · Feb 2025 | **KrishGyan**: an AI agribot giving farmers real-time guidance in their own voice and language over WhatsApp | Team TechVerse: Raman Shukla, Saksham Gupta |
+| 🥇 | **Product Genesis**, Vividhotsava 2025, CSJMU Kanpur · Apr 2025 | **BrandHive**: a startup pitch for an all-in-one digital platform for small businesses and emerging influencers, presented to Vice Chancellor Prof. Vinay Kumar Pathak | Team TechVerse |
+| 🥇 | **BYTEBATTLE**, MeetKats · Jun 2025 | **Annapurna**: a real-time food-sharing platform connecting donors and NGOs, against 15+ teams and 60+ participants | Team TechVerse |
+| 🏅 | **Top 3**, IIT Kanpur hackathon · 1st runner-up, Cyber Security Awareness, VSICS · 2nd runner-up, 'Perspectives Unleashed' debate, VSICS | | 2025 |
 
-### 🏆 Award Season
+<br>
 
-**3× Hackathon Winner** — including **IIT Roorkee Changethon** · **Top 3 @ IIT Kanpur Hackathon** · **35+ public repositories**
+## ◆ Speaking
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&color=0:0d1117,100:bc8cff" width="100%" alt="" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/wall-dark.webp">
+<img src="assets/wall-light.webp" alt="Photos from talks, mentorship sessions and pitch rooms across Kanpur: a packed college auditorium, the VSICS podium, a career session for students, hackathon stages and campus events. Three talks listed: the BCA Induction Seminar at VSICS (6 Jul 2025), AI-powered software development under TechVerse Enclave (8 Apr 2025), and the INSIGHT talk show debate (29 Mar 2025)." width="100%">
+</picture>
 
-### 📊 Box Office
+| Date | Session | Where |
+|---|---|---|
+| 6 Jul 2025 | **BCA Induction Seminar, 2025–28 batch**: mentor and speaker to 100+ first-year students on a three-year roadmap, from foundations and AI tools to hackathons, internships and placements | VSICS, Kanpur |
+| 8 Apr 2025 | **AI-powered software development**: how AI enters every stage of the software lifecycle, with a live showcase of the Changethon-winning project | VSICS Kanpur, under TechVerse Enclave |
+| 29 Mar 2025 | **INSIGHT, The Talk Show**: debate on nationalism and government policy in India, arguing the 'against' side | Computer Application Department, VSICS Kanpur |
 
-| | |
-| :---: | :---: |
-| <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Pranjulrathour&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=bc8cff&icon_color=F8D866&text_color=c9d1d9" alt="GitHub stats" /> | <img src="https://streak-stats.demolab.com/?user=Pranjulrathour&hide_border=true&background=0D1117&ring=BC8CFF&fire=F8D866&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=BC8CFF&sideNums=C9D1D9&dates=8b949e&stroke=161b22" alt="streak" /> |
+Also on YouTube for students: a TCS CodeVita 2025 registration and preparation playlist, and a "full-stack AI app in 30 minutes" build with the PRD shared.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjulrathour&bg_color=0d1117&color=bc8cff&line=f778ba&point=ffffff&area=true&hide_border=true" width="100%" alt="contribution activity" />
+<br>
 
-### 🤝 The Final Reel
+## ◆ Stack
 
-<p align="center">
-  <i>Have a product to ship, a hackathon to win, or a remote role that needs an engineer who owns the whole stack?</i>
-</p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.webp">
+<img src="assets/stack-light.webp" alt="Tech stack with logos. AI/ML: OpenAI, Claude, Gemini, Mistral, Groq/Llama, hybrid RAG, re-ranking, LoRA/QLoRA, Transformers/PEFT/TRL, embeddings, LangChain, MCP, OpenRouter, ONNX Runtime, computer vision, PyTorch. Backend: Python, FastAPI, Node.js, Express, REST, WebSockets, PostgreSQL, MongoDB, Supabase, Firebase, Redis. Frontend and vector stores: TypeScript, JavaScript, React, Next.js, Tailwind, shadcn/ui, Redux/Zustand, HTML5, CSS3, FAISS, Qdrant, pgvector. Cloud: Docker, AWS, Railway, Vercel, Git, GitHub, GitHub Actions, CI/CD." width="100%">
+</picture>
 
-<p align="center">
-  <a href="mailto:pranjulrathour41@gmail.com"><img src="https://img.shields.io/badge/Gmail-pranjulrathour41%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/pranjul-rathour/"><img src="https://img.shields.io/badge/LinkedIn-pranjul--rathour-0A66C2?style=for-the-badge&labelColor=161b22&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4K" alt="LinkedIn" /></a>
-  <a href="https://x.com/PranjulRathourx"><img src="https://img.shields.io/badge/X-%40PranjulRathourx-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22" alt="X" /></a>
-  <a href="https://scult.in"><img src="https://img.shields.io/badge/SCULT-scult.in-BC8CFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" alt="SCULT INDIA" /></a>
-</p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:161b22,100:bc8cff" width="100%" alt="" />
+## ◆ Writing
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/web-dark.webp">
+<img src="assets/web-light.webp" alt="pranjulrathour.github.io: a 142-page answer site with 70 in-depth guides, 8 topic hubs and a 59-deck carousel gallery, plus 89 carousel decks across seven platforms, all built with brand-engine." width="100%">
+</picture>
+
+- **[pranjulrathour.github.io](https://pranjulrathour.github.io)**: 70 guides answering real search questions on RAG, fine-tuning, vision, shipping AI, hackathons and careers, short answer first and sources last. 8 topic hubs and a gallery of every carousel.
+- **[pranjulrathour.scult.in](https://pranjulrathour.scult.in)**: portfolio and blog, the canonical home for everything above.
+- **[Dev.to](https://dev.to/pranjulrathour)**, **[Blogger](https://pranjulrathourtechguru.blogspot.com/)**, **[Hashnode](https://pranjulrathour.hashnode.dev)**: cross-posts and carousels, scheduled by my own publishing pipeline.
+
+<br>
+
+## ◆ GitHub
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+<img src="assets/stats-light.svg" alt="GitHub statistics for Pranjulrathour, drawn from the GraphQL API and refreshed daily: contributions in the last year, repositories, active days, longest streak, followers, a contribution heatmap and the language mix across public repositories." width="100%">
+</picture>
+
+<!-- stats:start -->
+**2,554** contributions in the last year across **60** repositories, **119** active days, longest streak **40** days. Updated 2026-10-07.
+<!-- stats:end -->
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjulrathour/Pranjulrathour/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Pranjulrathour/Pranjulrathour/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%">
+</picture>
+
+<br>
+
+## ◆ Find me
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/connect-dark.webp">
+<img src="assets/connect-light.webp" alt="Pranjul Rathour on Portfolio, LinkedIn, GitHub, X, Instagram, Threads, Facebook, Bluesky, Dev.to, Blogger, Hashnode and email. Judge your hackathon. Speak at your college." width="100%">
+</picture>
+
+| | | | |
+|---|---|---|---|
+| 🌐 [Portfolio](https://pranjulrathour.scult.in) | 💼 [LinkedIn](https://www.linkedin.com/in/pranjul-rathour/) | 🐙 [GitHub](https://github.com/Pranjulrathour) | ✖️ [X](https://x.com/PranjulRathourx) |
+| 📸 [Instagram](https://www.instagram.com/pranjulrathour.in/) | 🧵 [Threads](https://www.threads.com/@pranjulrathour.in) | 📘 [Facebook](https://www.facebook.com/profile.php?id=1377591238763842) | 🦋 [Bluesky](https://bsky.app/profile/pranjulrathour.bsky.social) |
+| 👩‍💻 [Dev.to](https://dev.to/pranjulrathour) | 📝 [Blogger](https://pranjulrathourtechguru.blogspot.com/) | #️⃣ [Hashnode](https://pranjulrathour.hashnode.dev) | ✉️ [pranjulrathour41@gmail.com](mailto:pranjulrathour41@gmail.com) |
+
+<br>
+
+<p align="center"><sub>Designed as code: the figures are HTML in <code>assets/src/</code>, rendered by <code>scripts/render.py</code>; GitHub numbers redraw daily from the GraphQL API. Logos: <a href="https://simpleicons.org">Simple Icons</a> (CC0). Every fact here is on my resume.</sub></p>
